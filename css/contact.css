@@ -1,0 +1,127 @@
+.active__button {
+    background-color: #029837;
+    color: white;
+}
+.active__button a {
+    color: white;
+}
+.section__one {
+    max-width: 1440px;
+    width: 100%;
+    height: 1024px;
+    margin: 0 auto;
+}
+.section__one--container {
+    width: 511px;
+    height: 733.35px;
+    margin: 0 auto;
+    margin-top: 165px;
+    text-align: center;
+}
+.section__one--container h1 {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 75px;
+}
+.section__one--container p {
+    width: 488px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    margin-top: 14px;
+    text-align: center;
+}
+#name {
+    width: 509px;
+    height: 52px;
+    margin: 0 auto;
+    margin-top: 70px;
+    border-radius: 17.34px;
+    border: none;
+    outline: none;
+    background-color: #F2F1F1;
+    color: #6B728066;
+    padding-left: 34px;
+}
+#email {
+    width: 509px;
+    height: 52px;
+    margin: 0 auto;
+    margin-top: 51px;
+    border-radius: 17.34px;
+    border: none;
+    outline: none;
+    background-color: #F2F1F1;
+    color: #6B728066;
+    padding-left: 34px;
+}
+#note {
+    width: 509.35px;
+    height: 212px;
+    border-radius: 17.34px;
+    border: none;
+    outline: none;
+    background-color: #F2F1F1;
+    color: #6B728066;
+    padding-left: 34px;
+    margin: 0 auto;
+    margin-top: 51px;
+}
+#note::placeholder {
+    vertical-align: top;
+}
+.send {
+    width: 511px;
+    height: 54px;
+    margin: 0 auto;
+    margin-top: 51px;
+    background-color: #029837;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    font-size: 16px;
+    line-height: 26px;
+}
+.send:hover {
+    cursor: pointer;
+}
+.section__two {
+    width: 100%;
+    background-color: #F7FFF6;
+}
+.section__two--container {
+    max-width: 1440px;
+    width: 100%;
+    height: 437px;
+    margin: 0 auto;
+    padding-top: 1px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box {
+    width: 407px;
+    height: 223px;
+    margin-top: 107px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 25px 0px #000033;
+    background-color: white;
+}
+.box h2 {
+    font-size: 25px;
+    line-height: 37.5px;
+    font-weight: 700;
+    width: 148px;
+    margin: 0 auto;
+    margin-top: 41px;
+}
+.box p {
+    margin: 0 auto;
+    margin-top: 26px;
+    width: 191px;
+}
+.box a{
+    font-size: 14px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #000033;
+}

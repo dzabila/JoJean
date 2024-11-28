@@ -1,0 +1,248 @@
+
+.section__one {
+  display: flex;
+  max-width: 1440px;
+  width: 100%;
+  height: 854px;
+  margin: 0 auto;
+}
+.section__one--container {
+  width: 630px;
+  height: 290.35px;
+  margin-top: 310px;
+  margin-left: 68px;
+}
+.section__one--container h1 {
+  font-size: 50px;
+  color: #000033;
+  font-weight: 700;
+  line-height: 65px;
+}
+.section__one--container p {
+  font-size: 16px;
+  font-weight: 300;
+  color: #000033;
+  line-height: 26px;
+  margin-top: 11px;
+}
+.book__button {
+  width: 157px;
+  height: 53.35px;
+  background-color: #029837;
+  color: white;
+  border-radius: 20px;
+  border: none;
+  margin-top: 44px;
+}
+.book__button:hover {
+  cursor: pointer;
+}
+.section__one--image {
+  max-width: 517px;
+  width: 100%;
+  margin-top: 187px;
+  margin-left: 154px;
+}
+.section__one--image img {
+  width: 100%;
+  height: auto;
+}
+.section__two {
+    width: 100%;
+    background-color: #f7fff6;
+}
+.section__two--wrapper {
+  display: flex;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  height: 798px;
+}
+.section__two--image {
+  margin-left: 72px;
+  margin-top: 128px;
+  max-width: 517px;
+  width: 100%;
+}
+.section__two--image img {
+  width: 100%;
+  height: auto;
+}
+.section__two--container {
+  max-width: 625px;
+  width: 100%;
+  height: 355.35px;
+  margin-top: 221px;
+  margin-left: 152px;
+}
+.section__two--container h2 {
+  font-size: 25px;
+  color: #000033;
+  font-weight: 700;
+  line-height: 37.5px;
+}
+.section__two--container p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  color: #000033;
+  margin-top: 21px;
+}
+.section__two--list {
+  margin-top: 21px;
+}
+.section__two--list li {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  color: #000033;
+}
+.book {
+  width: 157px;
+  height: 53.35px;
+  border: 1px solid #029837;
+  background-color: white;
+  color: #029837;
+  border-radius: 20px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-top: 57.68px;
+}
+.book:hover {
+  cursor: pointer;
+}
+.section__three {
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  height: 880px;
+}
+.section__three h1 {
+  width: 509px;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 52.5px;
+  color: #000033;
+  margin-top: 96px;
+}
+.section__three h3 {
+    width: 598px;
+    margin: 0 auto;
+    margin-top: 24px;
+    font-size: 16px;
+    font-weight: 300;
+    color: #000033;
+    line-height: 26px;
+    text-align: center;
+}
+.section__three--container {
+    max-width: 1299px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 92px;
+    display: flex;
+    justify-content: space-between;
+}
+.box {
+    width: 387px;
+    height: 405px;
+    box-shadow: 0px 10px 25px 0px #000033;
+    border-radius: 20px;
+}
+.icon {
+    margin-top: 44px;
+    margin-left: 37px;
+}
+.box h2 {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    color: #000033;
+    margin-top: 21px;
+    margin-left: 34px;
+}
+.box p {
+    width: 315px;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 26px;
+    margin-top: 21px;
+    margin-left: 39px;
+}
+.learn__button {
+    width: 127px;
+    height: 43.13px;
+    border: 1px solid #029837;
+    background-color: white;
+    color: #029837;
+    border-radius: 16.18px;
+    margin-top: 42px;
+    margin-left: 43px;
+}
+.learn__button:hover {
+    cursor: pointer;
+}
+.section__four {
+    width: 100%;
+    height: 663px;
+    background-color: #F7FFF6;
+}
+.section__four--wrapper {
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+    height: 663px;
+    padding-top: 1px;
+}
+.section__four--wrapper h1 {
+    width: 464px;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 52.5px;
+    color: #000033;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 107px;
+}
+.section__four--wrapper p {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    text-align: center;
+    width: 410px;
+    margin: 0 auto;
+    margin-top: 21px;
+}
+.form {
+    width: 713px;
+    margin: 0 auto;
+    margin-top: 71px;
+    display: flex;
+    justify-content: space-between;
+}
+.email {
+    width: 531px;
+    height: 53px;
+    background-color: #F2F1F1;
+    border-radius: 22.67px;
+    border: none;
+    outline: none;
+}
+.subscribe__button {
+    width: 157px;
+    height: 53.35px;
+    border-radius: 20px;
+    color: white;
+    background-color: #029837;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.subscribe__button:hover {
+    cursor: pointer;
+}
